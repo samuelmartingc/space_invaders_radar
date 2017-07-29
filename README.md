@@ -1,5 +1,7 @@
 # Radar for SpaceInvaders
 
+![GitHub Logo](space_invaders.jpg "Space Invaders")
+
 ## How to use it
 1- Generate Jar file
 ```bash
@@ -14,7 +16,7 @@ This program finds in a dirty radar image some aliens that want to invade us :)
 Some known enemies are
 
 #### Evil Crab
-~~~~
+
 --o-----o--
 ---o---o---
 --ooooooo--
@@ -23,10 +25,10 @@ ooooooooooo
 o-ooooooo-o
 o-o-----o-o
 ---oo-oo---
-~~~~
+
 
 #### Flying Squid
-~~~~
+
 ---oo---
 --oooo--
 -oooooo-
@@ -35,4 +37,4 @@ oooooooo
 --o--o--
 -o-oo-o-
 o-o--o-o
-~~~~
+
