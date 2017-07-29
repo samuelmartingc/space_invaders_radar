@@ -17,6 +17,7 @@ Some known enemies are
 
 #### Evil Crab
 
+```bash
 --o-----o--
 ---o---o---
 --ooooooo--
@@ -25,10 +26,11 @@ ooooooooooo
 o-ooooooo-o
 o-o-----o-o
 ---oo-oo---
-
+```
 
 #### Flying Squid
 
+```bash
 ---oo---
 --oooo--
 -oooooo-
@@ -37,4 +39,4 @@ oooooooo
 --o--o--
 -o-oo-o-
 o-o--o-o
-
+```
