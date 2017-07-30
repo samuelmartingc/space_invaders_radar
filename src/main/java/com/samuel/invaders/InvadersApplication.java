@@ -19,7 +19,7 @@ public class InvadersApplication {
 
     private static void discoverSpaceInvaders(String[] args) {
         if (args.length < 2){
-            System.out.println("---------------------- Two arguments are required -> 85 /home/user/radar.txt ----------------------");
+            System.out.println(">>>>>>>>>> Two arguments are required -> 85 /home/user/radar.txt <<<<<<<<<<");
             return;
         }
         double certainty = Double.parseDouble(args[0])/100;
